@@ -27,6 +27,7 @@ ANDREA CAMILA ORTIZ MAYORAL
 
 Durante la auditoría se encontraron los siguientes errores:
 
+
 * Alto abandono en onboarding
 * Flujo de pago complejo
 * Dark patterns
@@ -59,7 +60,7 @@ Nuevo flujo optimizado con menos pasos, mayor claridad y mejor experiencia de us
 
 Ver diagramas aquí:
 
-(https://lucid.app/lucidchart/1639bee4-b92c-4ded-b5e9-b9f7db8931b4/edit?viewport_loc=-3629%2C-348%2C5252%2C2525%2C0_0&invitationId=inv_957f3124-b503-46ef-9c14-9c98c49c4960)
+https://lucid.app/lucidchart/1639bee4-b92c-4ded-b5e9-b9f7db8931b4/edit?viewport_loc=-3629%2C-348%2C5252%2C2525%2C0_0&invitationId=inv_957f3124-b503-46ef-9c14-9c98c49c4960
 
 https://lucid.app/lucidchart/4148bb14-57d6-4186-a412-1add00d1c024/edit?viewport_loc=-4524%2C-31%2C3670%2C1765%2C0_0&invitationId=inv_415d465f-05ba-430e-b7b3-cf7e7bb98e6d
 
@@ -68,22 +69,31 @@ Prototipo (Figma):
 
 Se desarrolló un prototipo de media fidelidad en escala de grises, enfocado en mejorar la experiencia de usuario mediante una interfaz clara, consistente y fácil de usar.
 
-El diseño prioriza:
+ El diseño prioriza:
 
-Jerarquía visual clara para guiar al usuario
-Simplicidad en la navegación
-Claridad en las acciones principales
-Reducción de la carga cognitiva
+* Jerarquía visual clara para guiar al usuario
+
+* Simplicidad en la navegación
+
+* Claridad en las acciones principales
+
+* Reducción de la carga cognitiva
+
 
 Además, se eliminaron elementos innecesarios y puntos de fricción presentes en la versión original, logrando un flujo más eficiente y comprensible.
 
 El prototipo incluye las siguientes pantallas principales:
 
-Inicio / Mapa de ubicación
-Escaneo de código QR
-Resumen y confirmación del viaje
-Pantalla de pago simplificada
-Confirmación final del servicio
+* Inicio / Mapa de ubicación
+
+* Escaneo de código QR
+
+* Resumen y confirmación del viaje
+
+* Pantalla de pago simplificada
+
+* Confirmación final del servicio
+
 
 Prototipo aquí:
 
